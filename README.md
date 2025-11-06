@@ -6,6 +6,9 @@ A React implementation of a page selector component based on Figma design specif
 
 This project implements a multi-page selection interface with a master "All pages" toggle and individual page checkboxes, along with a confirmation button.
 
+##live link:
+https://ellty-first-assignment-ruby.vercel.app/
+
 ## Tech Stack
 
 - React 19.1.1
@@ -88,6 +91,8 @@ State management uses React hooks:
 ## Browser Compatibility
 
 Tested on modern browsers (Chrome, Firefox, Safari, Edge).
+
+
 
 ## Code Quality
 
